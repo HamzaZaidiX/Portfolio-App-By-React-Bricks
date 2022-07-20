@@ -29,7 +29,7 @@ In this way you will have the credentials already set up in a `.env.local file`:
 
 ## 📸 Screenshot:
 
-![Screenshot (260)](https://user-images.githubusercontent.com/52501040/179521448-907e0162-1c6d-4c2e-ac20-02ad66dd32f2.png)
+<a href="https://replit.com/@HamzaJaffar/Portfolio-App-By-React-Bricks?v=1"><img src="https://user-images.githubusercontent.com/52501040/179521448-907e0162-1c6d-4c2e-ac20-02ad66dd32f2.png" alt="Project Screenshot" /></a>
 
 ## 📖 Documentation
 Please, read our `documentation` at [React Bricks](https://docs.reactbricks.com/).
