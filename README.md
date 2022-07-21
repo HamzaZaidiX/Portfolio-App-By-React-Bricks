@@ -6,7 +6,7 @@ I have made Portfolio App Built with `React Bricks` & `TypeScript` in [Replit](h
 
 Deployed on [**Vercel**](https://vercel.com/) Plz Check My Demo Portfolio => [**LIVE DEMO 🚀**](https://hamza-zaidi-portfolio-shjz.vercel.app/) 
 
-<a align="center" href="https://portfolio-app-by-react-bricks.hamzajaffar.repl.co/"><img align="right" src="https://reactbricks.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freactbricks_vertical.777e5f1e.svg&w=640&q=75" alt="React Bricks" width="150" height="150" /></a>
+<a align="center" href="https://portfolio-app-by-react-bricks.hamzajaffar.repl.co/"><img align="right" src="https://reactbricks.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freactbricks_vertical.777e5f1e.svg&w=640&q=75" alt="React Bricks" width="350" height="350" /></a>
 
 ## [React Bricks](https://reactbricks.com/):
 
