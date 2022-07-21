@@ -12,8 +12,8 @@ Deployed on [**Vercel**](https://vercel.com/) Plz Check My Demo Portfolio => [**
 
 The [**React Bricks**](https://reactbricks.com/) is for developers to make apps create visually editable blocks as React components for **Next.js, Gatsby, Remix** in just not more **5 mins** and `create, customize and edit` your app and **deploy your App** in just few mins. All the advantages of a **headless CMS**, but your users will love it.
 
-<img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2022/06/CSM-GIF.gif" alt="React Bricks" width="550" height="500" />
-<img align="right" src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2022/06/Content-editing-optimage1.png" alt="React Bricks" width="550" height="500" />
+<img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2022/06/CSM-GIF.gif" alt="React Bricks" width="350" height="300" />
+<img align="right" src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2022/06/Content-editing-optimage1.png" alt="React Bricks" width="350" height="300" />
 
 ## 🚀 Quick start
 We suggest that you use the **CLI** and choose this starter.
