@@ -6,9 +6,7 @@ I have made Portfolio App Built with `React Bricks` & `TypeScript` in [Replit](h
 
 **Deployed on [**Vercel**](https://vercel.com/) Plz Check out my Portfolio 👉 [**LIVE DEMO 🚀**](https://hamza-zaidi-portfolio-shjz.vercel.app/)**
 
-<a align="center" href="https://portfolio-app-by-react-bricks.hamzajaffar.repl.co/"><img align="right" src="https://reactbricks.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freactbricks_vertical.777e5f1e.svg&w=640&q=75" alt="React Bricks" width="150" height="150" /></a>
-
-### [React Bricks](https://reactbricks.com/):
+## [React Bricks](https://reactbricks.com/): <a align="center" href="https://hamza-zaidi-portfolio-shjz.vercel.app/"><img align="right" src="https://reactbricks.com/_next/static/media/reactbricks_horizontal.a2892d3c.svg" alt="React Bricks" width="170" height="170" /></a>
 
 The [**React Bricks**](https://reactbricks.com/) is for developers to make apps create visually editable blocks as React components for **Next.js, Gatsby, Remix** in just not more **5 mins** and `create, customize and edit` your app and **deploy your App** in just few mins. All the advantages of a **headless CMS**, but your users will love it.
 
