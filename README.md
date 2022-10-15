@@ -26,7 +26,7 @@ yarn dev
 
 **Otherwise you can directly Clone my Github repo:**
 ```
-git clone https://github.com/HamzaZaidiX/Portfolio-App-By-React-Bricks
+- git clone https://github.com/HamzaZaidiX/Portfolio-App-By-React-Bricks
 ```
 also extract the sub directory **portfolio-app** 
 or
