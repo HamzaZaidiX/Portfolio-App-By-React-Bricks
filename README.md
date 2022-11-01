@@ -1,6 +1,6 @@
 # Portfolio-App-By-React-Bricks
 
-I have made Portfolio App Built with `React Bricks` & `TypeScript` in [Replit](https://replit.com/@HamzaJaffar/Portfolio-App-By-React-Bricks?v=1) which is easy and anyone can use to make apps in just few minutes ⌛ 
+**I have made Portfolio App Built with `React Bricks` & `TypeScript` in [Replit](https://replit.com/@HamzaJaffar/Portfolio-App-By-React-Bricks?v=1) which is easy and anyone can use to make apps in just few minutes ⌛. It has been `Expired after a month` because it's not free its just a `Demo Portfolio App` 😔.**
 
 ## 🐱‍🏍 Check it Out:
 
