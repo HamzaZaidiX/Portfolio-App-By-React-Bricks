@@ -1,6 +1,6 @@
 # Portfolio-App-By-React-Bricks
 
-**I have made Portfolio App Built with `React Bricks` & `TypeScript` in [Replit](https://replit.com/@HamzaJaffar/Portfolio-App-By-React-Bricks?v=1) which is easy and anyone can use to make apps in just few minutes ⌛**
+**I have made Portfolio App Built with `React Bricks` & `TypeScript` in [Replit](https://replit.com/@HamzaJaffar/Portfolio-App-By-React-Bricks?v=1) which is easy ❣ and Anyone can use to make apps in just few minutes ⌛ you just know How to Code Simply Create Blog or Portfolio App in Minutes ⌚**
 
 <h2 align="center">🏍 Check it out 👉 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="_blank">LIVE DEMO 🚀🐱‍🏍</a></h2>
 
