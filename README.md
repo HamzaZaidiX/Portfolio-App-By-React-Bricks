@@ -2,9 +2,9 @@
 
 **I have made Portfolio App Built with `React Bricks` & `TypeScript` in [Replit](https://replit.com/@HamzaJaffar/Portfolio-App-By-React-Bricks?v=1) which is easy ❣ and Anyone can use to make apps in just few minutes ⌛ you just know How to Code Simply Create Blog or Portfolio App in Minutes ⌚**
 
-<h2 align="center">🏍 Check it out 👉 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="_blank">LIVE DEMO 🚀🐱‍🏍</a></h2>
+<h2 align="center">Check it out 👉 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="_blank">LIVE DEMO 🚀🐱‍🏍</a></h2>
 
-Live Deployed on [Vercel](https://vercel.com/).
+**Read The Docs How to Deploy Live Website on [Vercel](https://vercel.com/)**
 
 ## [React Bricks](https://reactbricks.com/): <a align="center" href="https://hamza-zaidi-portfolio-shjz.vercel.app/"><img align="right" src="https://reactbricks.com/_next/static/media/reactbricks_horizontal.a2892d3c.svg" alt="React Bricks" width="170" height="170" /></a>
 
@@ -26,7 +26,7 @@ yarn dev
 
 **Otherwise you can directly Clone my Github repo:**
 ```
-- git clone https://github.com/HamzaZaidiX/Portfolio-App-By-React-Bricks
+git clone https://github.com/HamzaZaidiX/Portfolio-App-By-React-Bricks
 ```
 also extract the sub directory **portfolio-app** 
 or
@@ -38,12 +38,12 @@ or
 
 ### 📖 Documentation:
 
-- **Please, read our `Documentation` at [React Bricks](https://docs.reactbricks.com/).**
+- **Please, read our `Documentation` at [`React Bricks`](https://docs.reactbricks.com/).**
 - **Also Please Read How to Deploy your Project on [`Vercel`](https://vercel.com/)**
 
-### Licence
-`MIT LICENCE` Read Licence document for more details ->
+### 📖 Licence
+`MIT LICENCE` Read `Licence` document for more details =>
 
 # Bye! 👋
 
-HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **[HAMZA ZAIDI](https://github.com/HamzaZaidiX/Portfolio-App-By-React-Bricks)** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
